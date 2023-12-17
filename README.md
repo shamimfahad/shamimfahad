@@ -5,7 +5,7 @@ Software Development Engineer
 -----------------------------
 
 * 🌍  I'm based in Dhaka
-* 🖥️  See my portfolio at [shamimfahad.github.io](http://shamimfahad.github.io)
+* 🖥️  See my portfolio at [shamimfahad.dev](http://shamimfahad.dev)
 * ✉️  You can contact me at [shamimfahadshuvo@gmail.com](mailto:shamimfahadshuvo@gmail.com)
 * 🚀  I'm currently working on [Dina](http://onedina.com)
 * 🤝  I'm open to collaborating on interesting projects
